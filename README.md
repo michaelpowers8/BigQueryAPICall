@@ -1,6 +1,6 @@
 # THIS IS JUST A SKELETON OF A REAL PROJECT I DID AT A PREVIOUS JOB! NO REAL CREDENTIALS ARE BEING USED IN THIS PROJECT, AND IT WILL NOT DO ANYTHING!
 # Big Query API Call
-This program will attempt to pull a series of tables from Schnucks Big Query databases, save the pulled data to CSV files and export them for analysis.
+This program will attempt to pull a series of tables from Big Query databases, save the pulled data to CSV files and export them for analysis.
 
 ## Main functions
 To check the available functions, you can run the exe with just a command line prompt of ? It will return the following text:
